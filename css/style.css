@@ -10,7 +10,7 @@ section {
 }
 
 .container {
-    background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url("/images/donation13.jpg");
+    background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url("/images/donation2.jpg");
     /* filter: opacity(.85); */
     /* -webkit-filter: blur(8px); */
     background-size: cover;
